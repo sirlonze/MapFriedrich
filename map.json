@@ -43,7 +43,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"basement.json#Leiter"
+                 "value":".\/basement.json#Leiter"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/eastcoastbiker.de"
+                 "value":"https:\/\/mackuba.eu\/corona\/#compare_clear.daily?pop=1&c=de,at,us,gb,fr,it,ch&trend=7"
                 }],
          "type":"tilelayer",
          "visible":true,
