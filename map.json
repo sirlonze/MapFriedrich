@@ -151,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":".\/Web\/Corona.html"
+                 "value":"https:\/\/interaktiv.tagesspiegel.de\/lab\/karte-sars-cov-2-in-deutschland-landkreise\/"
                 }],
          "type":"tilelayer",
          "visible":true,
