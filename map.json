@@ -151,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mackuba.eu\/corona\/#compare_clear.daily?pop=1&c=de,at,us,gb,fr,it,ch&trend=7"
+                 "value":".\/Web\/Corona.html"
                 }],
          "type":"tilelayer",
          "visible":true,
