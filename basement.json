@@ -213,6 +213,12 @@
          "id":42,
          "name":"exitSchatz",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"Schatz.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":71,
