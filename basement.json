@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.google.com\/search?q=3.+Liga+tabelle&rlz=1C1CHBD_deDE831DE831&oq=3.+Liga+tabelle&aqs=chrome..69i57j0i20i263j0l4j69i60l2.2864j0j4&sourceid=chrome&ie=UTF-8#sie=lg;\/g\/11hfy38j97;2;\/m\/0gw9zs;st;fp;1;;"
+                 "value":"https:\/\/www.dfb.de\/3-liga\/spieltagtabelle\/"
                 }],
          "type":"tilelayer",
          "visible":true,
